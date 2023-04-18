@@ -1,0 +1,19 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "MiloVibes",
+      "name": "Milo Viveros",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73610862?v=4",
+      "profile": "https://github.com/MiloVibes",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    }
+  ]
+}
