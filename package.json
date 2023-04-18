@@ -1,0 +1,24 @@
+{
+  "name": "reactportfolio",
+  "version": "1.0.0",
+  "description": "My personal portfolio website built with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiloVibes/ReactPortfolio.git"
+  },
+  "keywords": [
+    "React",
+    "portfolio",
+    "website"
+  ],
+  "author": "Milo Viveros",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/MiloVibes/ReactPortfolio/issues"
+  },
+  "homepage": "https://github.com/MiloVibes/ReactPortfolio#readme"
+}
