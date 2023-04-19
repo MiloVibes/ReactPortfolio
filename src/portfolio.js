@@ -350,7 +350,7 @@ const talkSection = {
 
 const podcastSection = {
   title: emoji("Podcast 🎙️"),
-  subtitle: "One of The Best Software Development Podcasts",
+  subtitle: "One of The Best Software Development Podcasts: Code Newbie",
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
