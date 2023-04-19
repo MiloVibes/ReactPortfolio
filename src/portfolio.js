@@ -354,7 +354,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://open.spotify.com/episode/2UiWOSsmzQYIT0WyaQdxmy?si=Cp7zD8d1TEqEpaTmruvzug"
+    "https://open.spotify.com/embed/episode/2UiWOSsmzQYIT0WyaQdxmy?utm_source=generator"
   ],
   display: true // Set false to hide this section, defaults to true
 };
