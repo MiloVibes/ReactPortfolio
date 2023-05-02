@@ -189,14 +189,14 @@ const workExperiences = {
       company: "All Weather Roofing",
       companylogo: require("./assets/images/quoraLogo.png"),
       date: "August 2019 – July 2021",
-      desc: "As a quality control professional in the roofing industry, I have played a critical role in ensuring the quality and safety of roofing projects. My responsibilities have included inspecting roofing materials, verifying compliance with building codes and industry standards, and ensuring that workmanship meets the highest standards. I have also worked closely with roofing teams to identify and address quality issues, and have helped to implement corrective actions when necessary. With a strong attention to detail and a focus on continuous improvement, I have helped to deliver high-quality roofing projects that exceed customer expectations."
+      desc: "As a quality control professional in the roofing industry, I played a critical role in ensuring the quality and safety of roofing projects. My responsibilities have included inspecting roofing materials, verifying compliance with building codes and industry standards, and ensuring that workmanship meets the highest standards. I have also worked closely with roofing teams to identify and address quality issues, and have helped to implement corrective actions when necessary. With a strong attention to detail and a focus on continuous improvement, I have helped to deliver high-quality roofing projects that exceed customer expectations."
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
+      role: "Cook",
+      company: "Whataburger",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "Jan 2017 – Aug 2018",
+      desc: "As a cook at Whataburger, I was responsible for ensuring that our customers receive delicious, high-quality food in a timely manner. My duties include preparing and cooking menu items to order, maintaining a clean and organized kitchen, and following food safety protocols at all times. I work collaboratively with my team to ensure that all orders are fulfilled quickly and accurately, and I take pride in delivering meals that meet or exceed our customers' expectations."
     }
   ]
 };
